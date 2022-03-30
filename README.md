@@ -25,6 +25,10 @@ The loss is a weighted sum of the Adversarial loss (binary crossentropy) and MSE
 <img align = left width="445" height="215" src="https://user-images.githubusercontent.com/91228207/160922479-beedd0af-bbc5-40c8-be4c-7a49ac576b3c.png"/>
 </p>
 </ br>
+</ br>
+</ br>
+</ br></ br>
+
 <p>
 <img align = center width="445" height="215" src="https://user-images.githubusercontent.com/91228207/160922487-31d603e6-1c77-4756-af4e-76383cfc318a.png"/>
 </p>
