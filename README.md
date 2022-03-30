@@ -11,7 +11,7 @@ This is my attempt at implementing a simple [DCGAN](https://arxiv.org/pdf/1511.0
 The dataset used was the CelebA dataset [available here](https://www.kaggle.com/jessicali9530/celeba-dataset). It consists of about 200,000 images of people's faces.
 
 ## Approach
-The model, simply put, is a DCGAN with a modified loss function. <br/><br/>
+The model, simply put, is a DCGAN with a modified loss function. <br/>
 
 #### Architecture
 The Generator consists of a series of Residual units followed by two upsampling layers and a Convolutional layer. BatchNormalization and Leaky ReLU activation were used in all layers, except for the output, where tanh was used.<br/>
